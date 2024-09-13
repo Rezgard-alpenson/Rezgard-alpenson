@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning a philosophy 
 - 💞️ I’m looking to collaborate on everyone's 
 - 📫 How to reach me muhammadrizkywijaya003@gmail.com
-- Saya seorang **siswa** di https://www.dicoding.com, dan di https://www.Bangkit.com
+
 
 <!---
 Rezgard-alpenson/Rezgard-alpenson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
